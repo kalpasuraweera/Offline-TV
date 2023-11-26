@@ -7,7 +7,8 @@ today = date.today()
 
 
 # TODO: Ask how many videos per day
-# TODO: save keys in a csv file with folder name
+# TODO: save keys in a csv file with folder name or use one key for all
+# TODO: check file extension
 
 
 def handle_encrypt():
